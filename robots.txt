@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fecahzalie.particleworks.co.uk/sitemap.xml
